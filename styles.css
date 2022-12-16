@@ -1,0 +1,11 @@
+p {
+  color: blue;
+}
+
+.firstP {
+  color: red;
+}
+
+.section1 p {
+  color: rgba(136, 100, 255, 0.77);
+}
