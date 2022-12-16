@@ -8,4 +8,18 @@ p {
 
 .section1 p {
   color: rgba(136, 100, 255, 0.77);
+  background-color: #ababab20;
+  display: block;
+}
+  
+.div1 .section1 .p1 {
+  background-color: aquamarine;
+}
+
+.div1 .section1 .p2 {
+  background-color: darkgreen;
+}
+
+.div1 .section1 .p3 {
+  background-color: fuchsia;
 }
